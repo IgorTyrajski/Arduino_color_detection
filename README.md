@@ -9,6 +9,7 @@ Hardware used:
 2. Display: 16x2 LCD with I2C Backpack
 3. RGB LED (Common Cathode) and 3 330Ω resistors.
 4. Photoresistor (LDR) with a 4.7kΩ pull-down resistor (Voltage Divider)
-5. Custom light-isolated housing
+5. Custom light-isolated housing (LED and photoresistor need to be inside of the housing like in the _presentation.jpg_)
 
 ![Schematic](https://github.com/IgorTyrajski/Arduino_color_detection/blob/main/Schematic.png)
+![Presentation](https://github.com/IgorTyrajski/Arduino_color_detection/blob/main/Presentation.jpg)
